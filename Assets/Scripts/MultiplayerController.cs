@@ -25,8 +25,10 @@ public class MultiplayerController : MonoBehaviour {
 	
 	public string getCurrentDebugLabel () 
 	{
-		if (Debug.isDebugBuild) { versionWarning = "[Development Build, Do not distribute!]"; } else { versionWarning = "[Testing Copy, Do not distribute!]"; }
-		string currentDebugLabel = "Animal Village\nBy Jack Mawer\nVersion "+version+" "+versionWarning+"\n\n"+getDateTime ("")+"\nServer Status: "+PhotonNetwork.connectionStateDetailed.ToString();
+	    versionWarning = Debug.isDebugBuild
+	        ? "[Development Build, Do not distribute!]"
+	        : "[Testing Copy, Do not distribute!]";
+        string currentDebugLabel = "Animal Village\nBy Jack Mawer\nVersion "+version+" "+versionWarning+"\n\n"+getDateTime ("")+"\nServer Status: "+PhotonNetwork.connectionStateDetailed.ToString();
 		return currentDebugLabel;
 	}
 
