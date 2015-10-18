@@ -1,0 +1,16 @@
+head  = 5, 6
+hair = 7
+mouth = 8
+eye = 9
+Larm1 = 10
+Larm2 = 11
+Larm3 = 12
+Rarm1 = 13
+Rarm2 = 14
+Rarm3 = 15
+Lleg1 = 16
+Lleg2 = 17
+Lleg3 = 18
+Rleg1 = 19
+Rleg2 = 20
+Rleg3 = 21

@@ -1,0 +1,9 @@
+# Created by Every File Explorer
+
+newmtl CR00_sobj_cafe_main
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8
+d 1
+map_Kd Tex/tex_sobj_cafe_main.png
+
