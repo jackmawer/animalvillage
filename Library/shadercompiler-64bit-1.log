@@ -1,35 +1,1979 @@
-Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-10440
+Base path: D:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-86416
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=4892 outsize=1601 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=63517 outsize=4711 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=3595 outsize=10666 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=63517 outsize=3459 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=3595 outsize=2866 kw= pd= ok=1
+Cmd: preprocess
+  insize=3298 outsize=2706 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=63853 outsize=4711 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=894 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=63853 outsize=3508 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=894 outsize=1046 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=2786 outsize=1050 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6810 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=2040 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6810 outsize=1615 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=2040 outsize=770 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=2888 outsize=2375 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=7620 outsize=8164 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=815 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=7620 outsize=2176 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=815 outsize=1331 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3012 outsize=1141 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6862 outsize=4329 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=2174 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6862 outsize=2111 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=2174 outsize=1111 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=2044 outsize=1686 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=63517 outsize=4321 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=660 outsize=5028 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=63517 outsize=3143 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=660 outsize=989 kw= pd= ok=1
+Cmd: preprocess
+  insize=3112 outsize=3376 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=63853 outsize=4321 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=741811 outsize=7156 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=63853 outsize=3191 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=741811 outsize=1794 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6862 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=0 insize=467670 outsize=6539 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6862 outsize=1794 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 ok=1
+  api=4 type=1 insize=467670 outsize=2094 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=432921 outsize=3484 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=432921 outsize=1436 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=2916 outsize=2398 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=820 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=820 outsize=1355 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3013 outsize=2532 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=783 outsize=6352 kw=V_CW_VERTEX_COLOR_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=783 outsize=1656 kw=V_CW_VERTEX_COLOR_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=2025 outsize=2918 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10283 outsize=1501 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10283 outsize=11552 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=10283 outsize=4938 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=10283 outsize=9537 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7701 outsize=1501 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7701 outsize=7449 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=7701 outsize=4938 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=7701 outsize=8773 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10201 outsize=1501 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10201 outsize=3557 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=10201 outsize=4938 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=10201 outsize=9537 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5743 outsize=1501 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5743 outsize=534 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=5743 outsize=4938 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=5743 outsize=9285 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6981 outsize=1501 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6981 outsize=1558 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=6981 outsize=4938 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=6981 outsize=9724 kw= pd= ok=1
+Cmd: preprocess
+  insize=3041 outsize=2522 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=820 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=820 outsize=1355 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=1966 outsize=2850 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=66223 outsize=7879 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=66223 outsize=2931 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=42397 outsize=7124 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=42397 outsize=3183 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=38474 outsize=3988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=38474 outsize=2493 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=32355 outsize=8034 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=32355 outsize=2549 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19092 outsize=7124 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=19092 outsize=3183 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=17185 outsize=3988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=17185 outsize=2493 kw= pd= ok=1
+Cmd: preprocess
+  insize=3965 outsize=3092 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1211 outsize=6344 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1211 outsize=2289 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=1275 outsize=287 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1287 outsize=2038 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1287 outsize=729 kw= pd= ok=1
+Cmd: preprocess
+  insize=3380 outsize=2794 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=890 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=890 outsize=1266 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=2973 outsize=1080 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2197 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2197 outsize=989 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=3139 outsize=2597 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=844 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=844 outsize=1331 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=2766 outsize=1758 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=664 outsize=8473 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=664 outsize=803 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=984 outsize=8286 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=984 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=3318 outsize=2691 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=931 outsize=2411 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=931 outsize=778 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=4270 outsize=3220 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1354 outsize=6628 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1354 outsize=1404 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=2137 outsize=3035 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10279 outsize=1501 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10279 outsize=11552 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=10279 outsize=4808 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=10279 outsize=9537 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7697 outsize=1501 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7697 outsize=7449 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=7697 outsize=4808 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=7697 outsize=8773 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10197 outsize=1501 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10197 outsize=3557 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=10197 outsize=4808 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=10197 outsize=9537 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5739 outsize=1501 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5739 outsize=534 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=5739 outsize=4808 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=5739 outsize=9285 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6977 outsize=1501 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6977 outsize=1558 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=6977 outsize=4808 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=6977 outsize=9724 kw= pd= ok=1
+Cmd: preprocess
+  insize=2913 outsize=1161 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2056 outsize=2419 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2056 outsize=924 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=3402 outsize=2812 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=894 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=894 outsize=1046 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=7092 outsize=6777 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=119381 outsize=8586 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=119381 outsize=1891 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=75925 outsize=7969 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=75925 outsize=2192 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=66120 outsize=7969 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=66120 outsize=1184 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=102963 outsize=9350 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=102963 outsize=1607 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=111347 outsize=8724 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=111347 outsize=2257 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1238 outsize=8838 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1238 outsize=1079 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14308 outsize=6563 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14308 outsize=1558 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8927 outsize=5653 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8927 outsize=2192 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7697 outsize=5653 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7697 outsize=1184 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=12311 outsize=7034 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=12311 outsize=1607 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13409 outsize=6701 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13409 outsize=1891 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1039 outsize=6157 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1039 outsize=1079 kw= pd= ok=1
+Cmd: preprocess
+  insize=4227 outsize=3230 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1335 outsize=6628 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1335 outsize=1583 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=4210 outsize=3212 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1336 outsize=6628 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1336 outsize=1558 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=4008 outsize=2982 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1330 outsize=6514 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1330 outsize=1136 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=4071 outsize=3094 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1315 outsize=6514 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1315 outsize=1314 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3099 outsize=2575 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=825 outsize=6839 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=825 outsize=1501 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3420 outsize=4359 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=784855 outsize=7392 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=784855 outsize=2452 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=506735 outsize=6774 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=506735 outsize=2753 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=438474 outsize=6774 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=438474 outsize=1753 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=694845 outsize=8156 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=694845 outsize=2168 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=730141 outsize=7530 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=730141 outsize=2842 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=373757 outsize=8221 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=373757 outsize=1583 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=466322 outsize=3719 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=466322 outsize=2119 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3019 outsize=2506 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=815 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=815 outsize=1331 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3122 outsize=2585 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=839 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=839 outsize=1509 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=1437 outsize=1606 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7963 outsize=7294 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7963 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4706 outsize=6539 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4706 outsize=6149 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7065 outsize=7294 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7065 outsize=2346 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3623 outsize=7798 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3623 outsize=526 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4008 outsize=3484 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4008 outsize=1314 kw= pd= ok=1
+Cmd: preprocess
+  insize=3339 outsize=2686 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=955 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=955 outsize=1022 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=4289 outsize=2483 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=643 outsize=8164 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=643 outsize=1038 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=663 outsize=2761 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=663 outsize=1477 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=668 outsize=2761 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=668 outsize=1477 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1086 outsize=4776 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1086 outsize=908 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=3299 outsize=3513 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=762837 outsize=7246 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=762837 outsize=2038 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=487928 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=487928 outsize=2338 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=453179 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=453179 outsize=1680 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3117 outsize=2565 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=854 outsize=6839 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=854 outsize=1501 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3052 outsize=2396 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=73422 outsize=7879 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=73422 outsize=11812 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=49288 outsize=7124 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=49288 outsize=7758 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=44681 outsize=3988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=44681 outsize=2493 kw= pd= ok=1
+Cmd: preprocess
+  insize=4080 outsize=3097 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1321 outsize=6831 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1321 outsize=1550 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=2974 outsize=3926 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=754086 outsize=7156 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=754086 outsize=1769 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=479374 outsize=6539 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=479374 outsize=2070 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=395657 outsize=6352 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=395657 outsize=697 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=666236 outsize=7920 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=666236 outsize=1485 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=702396 outsize=7294 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=702396 outsize=2159 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=322876 outsize=7798 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=322876 outsize=526 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=435121 outsize=3484 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=435121 outsize=1436 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=12003 outsize=2628 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9432 outsize=6043 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9432 outsize=4873 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9436 outsize=5694 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9436 outsize=3744 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9256 outsize=2948 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9256 outsize=3329 kw= pd= ok=1
+Cmd: preprocess
+  insize=1404 outsize=2100 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7706 outsize=7026 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7706 outsize=1558 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4452 outsize=6173 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4452 outsize=2192 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3827 outsize=6173 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3827 outsize=1201 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6720 outsize=7498 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6720 outsize=1607 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6783 outsize=7164 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6783 outsize=1891 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3633 outsize=7619 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3633 outsize=1030 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3850 outsize=5905 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3850 outsize=1558 kw= pd= ok=1
+Cmd: preprocess
+  insize=812 outsize=1807 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7406 outsize=4808 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7406 outsize=1388 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4152 outsize=3898 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4152 outsize=2021 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3285 outsize=3565 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3285 outsize=697 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6420 outsize=5279 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6420 outsize=1404 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6483 outsize=4946 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6483 outsize=1688 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3091 outsize=5011 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3091 outsize=526 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3550 outsize=3630 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3550 outsize=1388 kw= pd= ok=1
+Cmd: preprocess
+  insize=3515 outsize=2857 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=960 outsize=2728 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=960 outsize=1412 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=2851 outsize=1079 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2076 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2076 outsize=868 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=3357 outsize=2810 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=849 outsize=6352 kw=V_CW_VERTEX_COLOR_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=849 outsize=2241 kw=V_CW_VERTEX_COLOR_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=3794 outsize=2952 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1180 outsize=6344 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1180 outsize=2029 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=3329 outsize=2661 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=73086 outsize=7879 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=73086 outsize=11706 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=48952 outsize=7124 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=48952 outsize=7709 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=44345 outsize=3988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=44345 outsize=2387 kw= pd= ok=1
+Cmd: preprocess
+  insize=10557 outsize=5695 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1160 outsize=7790 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1160 outsize=10203 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1056 outsize=8448 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1056 outsize=5962 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=801 outsize=7416 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=801 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1324 outsize=7790 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1324 outsize=7538 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=638 outsize=3638 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=638 outsize=1956 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1065 outsize=8123 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1065 outsize=3573 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=989 outsize=8302 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=989 outsize=2549 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=641 outsize=7416 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=641 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=635 outsize=3638 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=635 outsize=1956 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3194 outsize=4120 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=779964 outsize=7392 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=779964 outsize=2273 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=503092 outsize=6774 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=503092 outsize=2574 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=412559 outsize=6352 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=412559 outsize=697 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=689954 outsize=8156 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=689954 outsize=1989 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=726114 outsize=7530 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=726114 outsize=2663 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=329410 outsize=7798 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=329410 outsize=526 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=458839 outsize=3719 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=458839 outsize=1940 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3197 outsize=3412 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=762837 outsize=7246 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=762837 outsize=2038 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=487928 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=487928 outsize=2338 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=453179 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=453179 outsize=1680 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3976 outsize=3002 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1312 outsize=6628 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1312 outsize=1379 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3215 outsize=3431 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=764085 outsize=7246 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=764085 outsize=2062 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=488984 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=488984 outsize=2363 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=454235 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=454235 outsize=1704 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=1383 outsize=1458 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7832 outsize=7376 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7832 outsize=10163 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4575 outsize=6620 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4575 outsize=6165 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6934 outsize=7376 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6934 outsize=2363 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3877 outsize=3484 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3877 outsize=1249 kw= pd= ok=1
+Cmd: preprocess
+  insize=977 outsize=1865 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7391 outsize=7530 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7391 outsize=1249 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4162 outsize=6620 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4162 outsize=1883 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3369 outsize=6433 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3369 outsize=697 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6430 outsize=8001 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6430 outsize=1266 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6493 outsize=7668 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6493 outsize=1550 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3175 outsize=7879 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3175 outsize=526 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3559 outsize=3484 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3559 outsize=1249 kw= pd= ok=1
+Cmd: preprocess
+  insize=7205 outsize=4225 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=651957 outsize=14339 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=651957 outsize=1713 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=423341 outsize=13721 kw=POINT GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=423341 outsize=2013 kw=POINT GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=371886 outsize=13721 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=371886 outsize=835 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=565275 outsize=15103 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=565275 outsize=1396 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=609047 outsize=14477 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=609047 outsize=2046 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1511 outsize=14583 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1511 outsize=453 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1336 outsize=14688 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1336 outsize=859 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=101902 outsize=4865 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=101902 outsize=1379 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=60219 outsize=3955 kw=POINT GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=60219 outsize=2013 kw=POINT GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=51520 outsize=3955 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=51520 outsize=835 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=87781 outsize=5336 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=87781 outsize=1396 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=90227 outsize=5003 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=90227 outsize=1680 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1301 outsize=4833 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1301 outsize=453 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1220 outsize=4499 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1220 outsize=859 kw=GEOM_TYPE_BRANCH pd= ok=1
+Cmd: preprocess
+  insize=2726 outsize=2240 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=788 outsize=6523 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=788 outsize=1087 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3207 outsize=2578 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=931 outsize=2411 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=931 outsize=778 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=3539 outsize=2879 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=964 outsize=2728 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=964 outsize=1193 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=4259 outsize=3208 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1355 outsize=6628 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1355 outsize=1379 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3198 outsize=2650 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=849 outsize=6839 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=849 outsize=1680 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=12944 outsize=2753 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10245 outsize=6393 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10245 outsize=5767 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10251 outsize=6059 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10251 outsize=4166 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10067 outsize=2988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10067 outsize=3329 kw= pd= ok=1
+Cmd: preprocess
+  insize=3155 outsize=4144 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=756773 outsize=7156 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=756773 outsize=1948 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=480813 outsize=6539 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=480813 outsize=2249 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=409000 outsize=6539 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=409000 outsize=1249 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=668923 outsize=7920 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=668923 outsize=1664 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=704219 outsize=7294 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=704219 outsize=2338 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=344283 outsize=7985 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=344283 outsize=1079 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=440400 outsize=3484 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=440400 outsize=1615 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3221 outsize=2671 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=854 outsize=6839 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=854 outsize=1501 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3384 outsize=3588 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=771050 outsize=7392 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=771050 outsize=2298 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=494749 outsize=6774 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=494749 outsize=2598 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=460000 outsize=3719 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=460000 outsize=1940 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=4112 outsize=3086 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1330 outsize=6514 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1330 outsize=1136 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3060 outsize=2513 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=849 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=849 outsize=1355 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3243 outsize=2618 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=927 outsize=2411 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=927 outsize=998 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=2307 outsize=2924 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7749 outsize=11211 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7749 outsize=3419 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5317 outsize=10293 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5317 outsize=3996 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4548 outsize=10146 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4548 outsize=1526 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6650 outsize=10333 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6650 outsize=1891 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7702 outsize=11349 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7702 outsize=2541 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3295 outsize=10041 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3295 outsize=526 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=1445 outsize=486 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1261 outsize=3297 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1261 outsize=892 kw= pd= ok=1
+Cmd: preprocess
+  insize=4022 outsize=3039 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1321 outsize=6628 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1321 outsize=1404 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3163 outsize=2616 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=849 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=849 outsize=1355 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=2969 outsize=2446 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=825 outsize=6839 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=825 outsize=1501 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=2828 outsize=1041 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2091 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2091 outsize=965 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=3036 outsize=2494 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=844 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=844 outsize=1331 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=1540 outsize=923 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=919 outsize=1323 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=919 outsize=786 kw= pd= ok=1
+Cmd: preprocess
+  insize=445 outsize=445 ok=1
+Cmd: preprocess
+  insize=2037 outsize=1903 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=436 outsize=2598 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=436 outsize=1168 kw= pd= ok=1
+Cmd: preprocess
+  insize=3014 outsize=3280 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=741811 outsize=7156 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=741811 outsize=1794 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=467670 outsize=6539 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=467670 outsize=2094 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=432921 outsize=3484 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=432921 outsize=1436 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3846 outsize=2897 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1286 outsize=6514 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1286 outsize=1136 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3126 outsize=4063 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=773004 outsize=7246 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=773004 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=497332 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=497332 outsize=2338 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=406799 outsize=6352 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=406799 outsize=697 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=684194 outsize=8009 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=684194 outsize=1753 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=720354 outsize=7384 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=720354 outsize=2428 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=327202 outsize=7798 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=327202 outsize=526 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=453079 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=453079 outsize=1704 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=1221 outsize=1051 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=472 outsize=2411 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=472 outsize=819 kw= pd= ok=1
+Cmd: preprocess
+  insize=4261 outsize=3199 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1366 outsize=6831 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1366 outsize=1550 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=1703 outsize=1352 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=653 outsize=7798 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=653 outsize=803 kw= pd= ok=1
+Cmd: preprocess
+  insize=2119 outsize=606 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1819 outsize=3199 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1819 outsize=2086 kw= pd= ok=1
+Cmd: preprocess
+  insize=3282 outsize=3487 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=771045 outsize=7392 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=771045 outsize=2298 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=494744 outsize=6774 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=494744 outsize=2598 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=459995 outsize=3719 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=459995 outsize=1940 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3422 outsize=2775 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=951 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=951 outsize=1241 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=2612 outsize=3429 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=65887 outsize=7879 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=65887 outsize=2826 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=42061 outsize=7124 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=42061 outsize=3078 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=38138 outsize=3988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=38138 outsize=2387 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=32187 outsize=8034 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=32187 outsize=2444 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=18924 outsize=7124 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=18924 outsize=3078 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=17017 outsize=3988 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=17017 outsize=2387 kw= pd= ok=1
+Cmd: preprocess
+  insize=1988 outsize=1037 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1253 outsize=2265 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1253 outsize=868 kw= pd= ok=1
+Cmd: preprocess
+  insize=3190 outsize=2676 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=816 outsize=6352 kw=V_CW_VERTEX_COLOR_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=816 outsize=1981 kw=V_CW_VERTEX_COLOR_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=1954 outsize=1006 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1250 outsize=2265 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1250 outsize=868 kw= pd= ok=1
+Cmd: preprocess
+  insize=2928 outsize=1140 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2092 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2092 outsize=924 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=17541 outsize=3570 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=679 outsize=1867 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=679 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=954 outsize=2086 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=954 outsize=1396 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=835 outsize=4694 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=835 outsize=1030 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=966 outsize=5564 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=966 outsize=1371 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=867 outsize=2704 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=867 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1088 outsize=2907 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1088 outsize=1371 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1082 outsize=2956 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1082 outsize=1371 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=968 outsize=2712 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=968 outsize=1323 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1026 outsize=5052 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1026 outsize=1469 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1012 outsize=4735 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1012 outsize=1469 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=806 outsize=6246 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=806 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1079 outsize=6636 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1079 outsize=1396 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=866 outsize=8806 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=866 outsize=1030 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=995 outsize=10163 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=995 outsize=1371 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1051 outsize=7083 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1051 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1270 outsize=7286 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1270 outsize=1371 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1276 outsize=7335 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1276 outsize=1371 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1066 outsize=3744 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1066 outsize=1323 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1103 outsize=5669 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1103 outsize=1469 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1115 outsize=6141 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1115 outsize=1469 kw= pd= ok=1
+Cmd: preprocess
+  insize=3205 outsize=2614 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=893 outsize=2241 kw=V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=893 outsize=1973 kw=V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=3995 outsize=2033 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2300 outsize=13088 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2300 outsize=998 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=4118 outsize=2876 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=679 outsize=5247 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=679 outsize=989 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1204 outsize=8513 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1204 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=3109 outsize=4045 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=771751 outsize=7246 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=771751 outsize=2013 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=496271 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=496271 outsize=2314 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=406218 outsize=6352 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=406218 outsize=697 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=683133 outsize=8009 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=683133 outsize=1729 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=719293 outsize=7384 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=719293 outsize=2403 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=327101 outsize=7798 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=327101 outsize=526 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=452018 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=452018 outsize=1680 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3443 outsize=2792 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=955 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=955 outsize=1022 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=3207 outsize=2131 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=648 outsize=8164 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=648 outsize=859 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=668 outsize=2761 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=668 outsize=1298 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=673 outsize=2761 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=673 outsize=1298 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=1712 outsize=2251 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14667 outsize=4824 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14667 outsize=1436 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8181 outsize=3914 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8181 outsize=2070 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7156 outsize=3728 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7156 outsize=746 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=12905 outsize=5296 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=12905 outsize=1453 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13265 outsize=4963 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13265 outsize=1737 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7538 outsize=3646 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7538 outsize=1436 kw= pd= ok=1
+Cmd: preprocess
+  insize=3351 outsize=4301 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=777991 outsize=7246 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=777991 outsize=2281 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=501071 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=501071 outsize=2582 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=422442 outsize=6539 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=422442 outsize=1249 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=689181 outsize=8009 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=689181 outsize=1997 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=724477 outsize=7384 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=724477 outsize=2606 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=350909 outsize=7985 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=350909 outsize=1079 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=460658 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=460658 outsize=1883 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=10549 outsize=5697 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1145 outsize=7790 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1145 outsize=10146 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1055 outsize=8448 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1055 outsize=5889 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=797 outsize=7416 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=797 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1319 outsize=7790 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1319 outsize=7473 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=634 outsize=3638 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=634 outsize=1745 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1085 outsize=8123 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1085 outsize=3378 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=988 outsize=8302 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=988 outsize=2338 kw=POINT SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=642 outsize=7416 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=642 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=634 outsize=3638 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=634 outsize=1745 kw=V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: preprocess
+  insize=3360 outsize=1971 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=606 outsize=8164 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=606 outsize=900 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=638 outsize=2761 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=638 outsize=1298 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=641 outsize=2761 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=641 outsize=1298 kw=V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=754 outsize=4564 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=754 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=138 outsize=138 ok=1
+Cmd: preprocess
+  insize=3626 outsize=2805 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1159 outsize=6344 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1159 outsize=1704 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=4166 outsize=3116 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1354 outsize=6628 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1354 outsize=1404 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=4318 outsize=3307 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1349 outsize=6831 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1349 outsize=1729 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=1748 outsize=953 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1097 outsize=2314 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1097 outsize=770 kw= pd= ok=1
+Cmd: preprocess
+  insize=2913 outsize=2430 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=785 outsize=6523 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=785 outsize=1087 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=1414 outsize=2078 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7739 outsize=7441 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7739 outsize=1558 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4485 outsize=6531 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4485 outsize=2192 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3860 outsize=6531 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3860 outsize=1201 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6753 outsize=7912 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6753 outsize=1607 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6816 outsize=7579 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6816 outsize=1891 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3666 outsize=8034 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3666 outsize=1030 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3883 outsize=6319 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3883 outsize=1558 kw= pd= ok=1
+Cmd: preprocess
+  insize=4357 outsize=3297 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1364 outsize=6831 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1364 outsize=1550 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=5122 outsize=2323 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2289 outsize=13088 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2289 outsize=998 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1188 outsize=11471 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1188 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=3333 outsize=4282 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=776652 outsize=7246 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=776652 outsize=2257 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=499924 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=499924 outsize=2558 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=421775 outsize=6539 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=421775 outsize=1249 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=688034 outsize=8009 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=688034 outsize=1973 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=723330 outsize=7384 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=723330 outsize=2582 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=350722 outsize=7985 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=350722 outsize=1079 kw=SHADOWS_DEPTH V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=459511 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=459511 outsize=1859 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=4151 outsize=3098 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1357 outsize=6628 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1357 outsize=1379 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=2934 outsize=2422 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=814 outsize=6523 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=814 outsize=1266 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=2876 outsize=2335 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=840 outsize=2241 kw=V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=840 outsize=1388 kw=V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=2957 outsize=2440 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=819 outsize=6523 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=819 outsize=1087 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=4077 outsize=2786 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7113 outsize=12649 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7113 outsize=4134 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1231 outsize=11471 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1231 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=3181 outsize=2556 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=926 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=926 outsize=1063 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=3430 outsize=1748 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1986 outsize=2582 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1986 outsize=1574 kw= pd= ok=1
+Cmd: preprocess
+  insize=2007 outsize=1877 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=432 outsize=2598 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=432 outsize=1168 kw= pd= ok=1
+Cmd: preprocess
+  insize=3436 outsize=2775 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=965 outsize=2728 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=965 outsize=1193 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=3277 outsize=2644 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=935 outsize=2728 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=935 outsize=1233 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=3138 outsize=2575 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=865 outsize=2525 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=865 outsize=1087 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=3046 outsize=2486 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=862 outsize=2241 kw=V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=862 outsize=1713 kw=V_CW_REFLECTIVE_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF V_CW_FOG_OFF V_CW_TERRAINBLEND_TEXTURE pd= ok=1
+Cmd: preprocess
+  insize=3141 outsize=2599 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=844 outsize=6636 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=844 outsize=1534 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=3318 outsize=3534 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=764085 outsize=7246 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=764085 outsize=2062 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=488984 outsize=6628 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=488984 outsize=2363 kw=POINT V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=454235 outsize=3573 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=454235 outsize=1704 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: preprocess
+  insize=361 outsize=294 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=369 outsize=1810 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=369 outsize=380 kw= pd= ok=1
+Cmd: preprocess
+  insize=3931 outsize=1207 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3028 outsize=7961 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3028 outsize=2801 kw= pd= ok=1
+Cmd: preprocess
+  insize=3228 outsize=2595 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=2411 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=819 kw=V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF pd= ok=1
+Cmd: preprocess
+  insize=2854 outsize=2337 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=819 outsize=6523 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=819 outsize=1087 kw=_NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_FOG_OFF V_CW_MATCAP_BLEND_MULTIPLY pd= ok=1
+Cmd: preprocess
+  insize=2625 outsize=1099 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1830 outsize=2289 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1830 outsize=827 kw=SOFTPARTICLES_OFF V_CW_PARTICLE_SYSTEM_OFF pd= ok=1
+Cmd: preprocess
+  insize=2272 outsize=2966 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7669 outsize=11211 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7669 outsize=3362 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5237 outsize=10293 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5237 outsize=3906 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4468 outsize=10146 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4468 outsize=1566 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6570 outsize=10333 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6570 outsize=1826 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7622 outsize=11349 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7622 outsize=2549 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3215 outsize=10041 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3215 outsize=526 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=2826 outsize=2658 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7110 outsize=12649 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7110 outsize=4207 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3326 outsize=11471 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3326 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=975 outsize=1201 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=975 outsize=811 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=541 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=541 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7400 outsize=4938 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7400 outsize=2054 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4837 outsize=4020 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4837 outsize=1956 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6924 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6924 outsize=1314 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3695 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3695 outsize=1168 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=651957 outsize=15826 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=651957 outsize=2972 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=423341 outsize=15200 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=423341 outsize=2582 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10618 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6845 outsize=3663 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6845 outsize=1314 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3617 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3617 outsize=1168 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1160 outsize=8318 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1160 outsize=10894 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_RIM_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1056 outsize=7758 kw=DIRECTIONAL SHADOWS_OFF V_CW_VERTEX_COLOR_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1056 outsize=6214 kw=DIRECTIONAL SHADOWS_OFF V_CW_VERTEX_COLOR_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=1217 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=673 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=932 outsize=1217 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=932 outsize=673 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=932 outsize=1217 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=932 outsize=673 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=1217 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=673 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=920 outsize=1217 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=920 outsize=673 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=932 outsize=1217 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=932 outsize=673 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4597 outsize=4093 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4597 outsize=981 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7666 outsize=4784 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7666 outsize=3476 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5061 outsize=4020 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5061 outsize=2907 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=797 outsize=3776 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=797 outsize=908 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6976 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6976 outsize=1493 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3734 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3734 outsize=1347 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=423341 outsize=13721 kw=DIRECTIONAL GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=423341 outsize=1233 kw=DIRECTIONAL GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=42061 outsize=7124 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=42061 outsize=2298 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1274 outsize=13583 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1274 outsize=453 kw=SHADOWS_DEPTH GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=455008 outsize=14786 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=455008 outsize=2972 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=291968 outsize=14160 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=291968 outsize=2582 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=467670 outsize=6539 kw=DIRECTIONAL V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=467670 outsize=1314 kw=DIRECTIONAL V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7139 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7139 outsize=2298 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3868 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3868 outsize=2151 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=10504 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=5401 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1511 outsize=23943 kw=SHADOWS_DEPTH GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1511 outsize=908 kw=SHADOWS_DEPTH GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=651957 outsize=25023 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=651957 outsize=3151 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=423341 outsize=24398 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=423341 outsize=2761 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1056 outsize=7758 kw=DIRECTIONAL SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1056 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=4703 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=11292 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=6141 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7701 outsize=1501 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7701 outsize=6669 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=7701 outsize=4938 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=7701 outsize=8773 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1274 outsize=22943 kw=SHADOWS_DEPTH GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1274 outsize=908 kw=SHADOWS_DEPTH GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=455008 outsize=23983 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=455008 outsize=3151 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=291968 outsize=23358 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=291968 outsize=2761 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP GEOM_TYPE_LEAF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=119381 outsize=9903 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=119381 outsize=3151 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=75925 outsize=9277 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=75925 outsize=2761 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7216 outsize=3752 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7216 outsize=1518 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3830 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3830 outsize=1168 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=479374 outsize=6539 kw=DIRECTIONAL V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=479374 outsize=1290 kw=DIRECTIONAL V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF _EMISSION_OFF V_CW_RIM_OFF V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=835 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10796 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5718 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=966 outsize=1290 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=966 outsize=811 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=118661 outsize=8700 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=118661 outsize=3151 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=75205 outsize=8074 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=75205 outsize=2761 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1055 outsize=7758 kw=DIRECTIONAL SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1055 outsize=5401 kw=DIRECTIONAL SHADOWS_OFF V_CW_VERTEX_COLOR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7697 outsize=1501 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7697 outsize=6669 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=7697 outsize=4808 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=7697 outsize=8773 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1286 outsize=7189 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_FOG_OFF V_CW_RIM V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1286 outsize=1274 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF V_CW_REFLECTIVE_OFF _NORMALMAP_OFF V_CW_VERTEX_COLOR_OFF V_CW_IBL_OFF _EMISSION_OFF V_CW_FOG_OFF V_CW_RIM V_CW_SPECULAR_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=118661 outsize=10520 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP BILLBOARD_FACE_CAMERA_POS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=118661 outsize=3151 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF EFFECT_HUE_VARIATION EFFECT_BUMP BILLBOARD_FACE_CAMERA_POS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=75205 outsize=9894 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP BILLBOARD_FACE_CAMERA_POS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=75205 outsize=2761 kw=DIRECTIONAL EFFECT_HUE_VARIATION EFFECT_BUMP BILLBOARD_FACE_CAMERA_POS pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13030 outsize=11024 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13030 outsize=1899 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10283 outsize=1501 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10283 outsize=11877 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=2 insize=10283 outsize=4938 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=3 insize=10283 outsize=9984 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=651957 outsize=14786 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=651957 outsize=2029 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF GEOM_TYPE_BRANCH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1333 outsize=1404 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1333 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1329 outsize=1404 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1329 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1329 outsize=1404 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1329 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1333 outsize=1404 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1333 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1321 outsize=1404 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1321 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1331 outsize=1404 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1331 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1215 outsize=1314 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1215 outsize=1168 kw= pd= ok=1
